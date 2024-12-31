@@ -1,4 +1,4 @@
-<h2>Willkommen! 👋</h2>
+<h2>Hola! 👋</h2>
 
 I’m 192222348,
 and I'm a hobbiyst programmer.
